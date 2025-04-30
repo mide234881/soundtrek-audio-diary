@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/soundtrek-core.clar"
 depends_on = []
 
+[contracts.soundtrek-marketplace]
+path = "contracts/soundtrek-marketplace.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
